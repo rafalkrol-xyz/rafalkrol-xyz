@@ -20,3 +20,5 @@
   * :airplane: [Many years ago I worked as a Flight Attendant](https://www.youtube.com/watch?v=EgLCtVshp8E)
   * :dog: [My JRT is named Devo after DevOps](https://www.rafalkrol.xyz/assets/devo.jpg)
   * :see_no_evil: [I have too many certs](https://www.credly.com/users/rafal-krol-xyz)
+  * :trophy: [I got featured on the AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/building-a-multi-region-solution-for-auto-recovery-of-amazon-ec2-instances-using-aws-cdk-and-aws-step-functions/)
+  * :muscle: [I'm an AWS Community Builder since 2021](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=Rafal%2BKrol&cb-cards.q_operator=AND)
