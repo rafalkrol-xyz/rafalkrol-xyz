@@ -22,4 +22,4 @@
   * :dog: [My JRT is named Devo after DevOps](https://www.rafalkrol.xyz/assets/devo.jpg)
   * :see_no_evil: [I have too many certs](https://www.credly.com/users/rafal-krol-xyz)
   * :trophy: [I got featured on the AWS Partner Network (APN) Blog](https://aws.amazon.com/blogs/apn/building-a-multi-region-solution-for-auto-recovery-of-amazon-ec2-instances-using-aws-cdk-and-aws-step-functions/)
-  * :muscle: [I was an AWS Community Builder between 2021 and 2024](https://aws.amazon.com/developer/community/community-builders/)
+  * :muscle: [I'm an AWS Community Builder (2021-2024 and back again since 2026)](https://builder.aws.com/community/@rafalkrolxyz)
