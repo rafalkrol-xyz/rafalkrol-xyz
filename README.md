@@ -20,7 +20,7 @@
   * [mAI-KB](https://github.com/rafalkrol-xyz/mAI-KB) - turn local folders into knowledge bases
   * [mAI-KSeF](https://github.com/rafalkrol-xyz/mAI-KSeF) - invoice to Poland's KSeF straight from the CLI
   * [ukyo-clicker](https://github.com/rafalkrol-xyz/ukyo-clicker) - a Joy-Con as a presentation clicker
-  * [mahjong-solitaire](https://github.com/rafalkrol-xyz/mahjong-solitaire)
+  * [mahjong-solitaire](https://github.com/rafalkrol-xyz/mahjong-solitaire) - a simple rendition of Mahjong solitaire written in Odin
 * :microphone: Recent talks:
   * [AI Behind Closed Doors @ AIBA 2026](https://github.com/rafalkrol-xyz/trek2summit-202610-aiba-ai-behind-closed-doors)
   * [Shoot for the Stars @ AWS Student Builder Group AUB 2026](https://github.com/rafalkrol-xyz/aws-student-builder-group-aub-20260816-shoot-for-the-stars)
