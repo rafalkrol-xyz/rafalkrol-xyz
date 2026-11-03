@@ -31,7 +31,8 @@
 
 * :book: [Read my articles on Dev.to](https://dev.to/rafalkrolxyz)
 * :camera: [Sub my channel on YT](https://www.youtube.com/@DevOpsBoss)
-* :mailbox: [Connect with me on LinkedIn](https://www.linkedin.com/in/rafal-krol)
+* :frame_photo: [Follow me on IG](https://www.instagram.com/devopsboss)
+* :mailbox: [Connect with me on LI](https://www.linkedin.com/in/rafal-krol)
 * :laughing: Fun facts:
   * :airplane: [Many years ago I worked as a Flight Attendant](https://www.youtube.com/watch?v=EgLCtVshp8E)
   * :dog: [My JRT is named Devo after DevOps](https://www.rafalkrol.xyz/assets/devo.jpg)
