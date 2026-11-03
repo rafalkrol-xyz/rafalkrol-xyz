@@ -12,6 +12,19 @@
 * :computer: GPL - **Rust, TypeScript (Node), Odin (for the Joy of Programming), Go**
 * :memo: Scripting - **Python, Bash**
 
+## Currently
+
+* :mountain: Head of AWS Technologies @ [Trek2Summit](https://www.trek2summit.com)
+* :hammer_and_wrench: Tinkering with:
+  * [mAI-consigliere](https://github.com/rafalkrol-xyz/mAI-consigliere) - an agentic AI system to aid me as a CTO
+  * [mAI-KB](https://github.com/rafalkrol-xyz/mAI-KB) - turn local folders into knowledge bases
+  * [mAI-KSeF](https://github.com/rafalkrol-xyz/mAI-KSeF) - invoice to Poland's KSeF straight from the CLI
+  * [ukyo-clicker](https://github.com/rafalkrol-xyz/ukyo-clicker) - a Joy-Con as a presentation clicker
+* :microphone: Recent talks:
+  * [AI Behind Closed Doors @ AIBA 2026](https://github.com/rafalkrol-xyz/trek2summit-202610-aiba-ai-behind-closed-doors)
+  * [Systemy agentyczne w praktyce @ GigaCon 2026](https://youtu.be/JS6wQNqKT_M)
+  * [AWS Well-Architected: A Framework of EPYC Proportions](https://www.youtube.com/watch?v=do3nupbB73I)
+
 ## Misc
 
 * :book: [Read my articles on Dev.to](https://dev.to/rafalkrolxyz)
