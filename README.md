@@ -7,9 +7,10 @@
 ## Tech stack
 
 * :cloud: Cloud - **AWS**
-* :rocket: IaC - **Terraform, AWS CDK and Pulumi**
-* :computer: GPL - **TypeScript (Node), Rust, Go**
-* :memo: Scripting -  **Python, Bash**
+* :rocket: IaC - **Terraform, Pulumi and AWS CDK**
+* :robot: Agentic AI - **Strands Agents, Amazon Bedrock (AgentCore), Kiro, Claude Code**
+* :computer: GPL - **Rust, TypeScript (Node), Odin (for the Joy of Programming), Go**
+* :memo: Scripting - **Python, Bash**
 
 ## Misc
 
